@@ -1,4 +1,16 @@
-### Hi there 👋  I am Nicenonecb, if you don't know this name,It's ok! Cause i made the name by myself!
+![5506581aace1670015cfe2754330065](C:\Users\大蟒刀\Desktop\5506581aace1670015cfe2754330065.jpg)
+
+### Hi there 👋  I am Nicenonecb ！！！
+
+#### If you don't know this name,It's ok!  Cause I made the name by myself!
+
+
+
+🌱 I’m currently learning ：Vue，TypeScript
+
+😄 Pronouns: Problem baby
+
+⚡ Fun fact: I have been studying because my programming ability is not good
 
 <!--
 **Nicenonecb/Nicenonecb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
