@@ -1,4 +1,4 @@
-![5506581aace1670015cfe2754330065](C:\Users\大蟒刀\Desktop\5506581aace1670015cfe2754330065.jpg)
+![avatar](bg.jpg)
 
 ### Hi there 👋  I am Nicenonecb ！！！
 
