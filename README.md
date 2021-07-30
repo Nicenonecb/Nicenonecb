@@ -1,12 +1,11 @@
 ![avatar](bg.jpg)
 
-### Hi there 👋  I am Nicenonecb ！！！
+### Hi there 👋  I am Justin ！！！
 
-#### If you don't know this name,It's ok!  Cause I made the name by myself!
+#### Veni Vidi Vici
 
 
-
-🌱 I’m currently learning ：Node.js 
+🌱 I’m currently learning ：Node.js Rust
 
 😄 Pronouns: Problem baby
 
@@ -25,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+If you don't know this name,It's ok!  Cause I made the name by myself!
 -->
