@@ -9,7 +9,6 @@
 
 😄 Pronouns: Problem baby
 
-⚡ Fun fact: I have been studying because my programming ability is not good
 
 <!--
 **Nicenonecb/Nicenonecb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
