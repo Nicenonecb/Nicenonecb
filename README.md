@@ -5,9 +5,9 @@
 #### Veni Vidi Vici
 
 
-🌱 I’m currently learning ：Node.js Rust
+🌱 I’m currently learning ：Go
 
-😄 Pronouns: Problem baby
+😄 Pronouns: nothing but nice
 
 
 <!--
