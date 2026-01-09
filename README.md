@@ -1,17 +1,27 @@
-![avatar](bg.jpg)
+<h1 align="center">Hi 👋, I'm Justin Wang</h1>
+<h3 align="center">I build AI infrastructure and developer platforms.</h3>
 
-### Hi there 👋 I am Justin Wang
+---
 
-I build AI infrastructure and developer platforms. I care about reliable systems, clean abstractions, and shipping fast.
+### 💻 Tech Stack
 
-**Tech Stack**
-- NestJS
-- Next.js
-- TypeScript
-- React
-- Vue 3
-- Node.js
+```typescript
+{
+  "backend": "NestJS",
+  "frontend": "Next.js, React, Vue 3",
+  "language": "TypeScript, Node.js"
+}
+```
 
-**Looking For**
-- Remote role in AI infrastructure
-- Target compensation: USD 8–10k/month
+---
+
+### 📫 Contact
+
+- **Email**: `nicenonecb@gmail.com`
+
+---
+
+### 🚀 Looking For
+
+- A remote role in **AI infrastructure**.
+- Target compensation: **USD 8–10k/month**.
