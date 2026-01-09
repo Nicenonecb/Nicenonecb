@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin Wang</h1>
 <h3 align="center">I build AI infrastructure and developer platforms.</h3>
 
----
+
 
 ### 💻 Tech Stack
 
@@ -13,13 +13,13 @@
 }
 ```
 
----
+
 
 ### 📫 Contact
 
 - **Email**: `nicenonecb@gmail.com`
 
----
+
 
 ### 🚀 Looking For
 
